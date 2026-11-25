@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.npz
+*.npy
+*.pkl
+logs/
+twin/sites/*/data/
+real/*/data.csv
+real/*/clean.csv
+real/*/rawfilled.csv
+real/dkasc/raw/
+models/
+.DS_Store

@@ -1,0 +1,25 @@
+channel,method,nmae
+p_pv,Linear,0.6813818135850201
+p_load,Linear,0.5271778388747446
+p_grid,Linear,0.6793079123630497
+p_bess,Linear,0.7197125463423525
+ghi,Linear,0.8772126364202064
+gti,Linear,0.8699547474686761
+t_amb,Linear,0.5372504766633825
+rh,Linear,0.5583756226970674
+p_pv,Forward-fill,0.7951415672289268
+p_load,Forward-fill,0.5828545046179833
+p_grid,Forward-fill,0.8200865735097389
+p_bess,Forward-fill,0.7950948586967336
+ghi,Forward-fill,0.9933414519685164
+gti,Forward-fill,1.0764497054103965
+t_amb,Forward-fill,0.6421144528849756
+rh,Forward-fill,0.6802590073733928
+p_pv,XCI (proposed),0.08184203828219792
+p_load,XCI (proposed),0.09771955592196646
+p_grid,XCI (proposed),0.18437233993645996
+p_bess,XCI (proposed),0.20023646791886615
+ghi,XCI (proposed),0.04132421414814014
+gti,XCI (proposed),0.06450466013629921
+t_amb,XCI (proposed),0.11626596973290697
+rh,XCI (proposed),0.18781501034172157

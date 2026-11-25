@@ -1,0 +1,44 @@
+{
+ "persistence": {
+  "model": "persistence",
+  "seed": 0,
+  "train_seconds": 0.002547025680541992,
+  "epochs": null,
+  "params": null
+ },
+ "lgbm": {
+  "model": "lgbm",
+  "seed": 0,
+  "train_seconds": 43.07924747467041,
+  "epochs": null,
+  "params": null
+ },
+ "proposed": {
+  "model": "proposed",
+  "seed": 0,
+  "train_seconds": 319.47569823265076,
+  "epochs": 18,
+  "params": 161466
+ },
+ "xgbq_fs": {
+  "model": "xgbq_fs",
+  "seed": 0,
+  "train_seconds": 3544.3343698978424,
+  "epochs": null,
+  "params": null
+ },
+ "ridge": {
+  "model": "ridge",
+  "seed": 0,
+  "train_seconds": 0.21849822998046875,
+  "epochs": null,
+  "params": null
+ },
+ "xgb": {
+  "model": "xgb",
+  "seed": 0,
+  "train_seconds": 531.7646148204803,
+  "epochs": null,
+  "params": null
+ }
+}

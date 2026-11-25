@@ -1,0 +1,167 @@
+{
+ "abl_nofs": {
+  "model": "abl_nofs",
+  "seed": 0,
+  "train_seconds": 283.5205521583557,
+  "epochs": 16,
+  "params": 161466
+ },
+ "abl_noanchor": {
+  "model": "abl_noanchor",
+  "seed": 0,
+  "train_seconds": 286.7277874946594,
+  "epochs": 15,
+  "params": 161466
+ },
+ "gru": {
+  "model": "gru",
+  "seed": 0,
+  "train_seconds": 106.05448508262634,
+  "epochs": 21,
+  "params": 150728
+ },
+ "persistence": {
+  "model": "persistence",
+  "seed": 0,
+  "train_seconds": 0.0034379959106445312,
+  "epochs": null,
+  "params": null
+ },
+ "lstm": {
+  "model": "lstm",
+  "seed": 0,
+  "train_seconds": 79.37104749679565,
+  "epochs": 19,
+  "params": 164680
+ },
+ "xgbq": {
+  "model": "xgbq",
+  "seed": 0,
+  "train_seconds": 1089.0208292007446,
+  "epochs": null,
+  "params": null
+ },
+ "lgbm": {
+  "model": "lgbm",
+  "seed": 0,
+  "train_seconds": 658.2733309268951,
+  "epochs": null,
+  "params": null
+ },
+ "dlinear": {
+  "model": "dlinear",
+  "seed": 0,
+  "train_seconds": 6.903050899505615,
+  "epochs": 40,
+  "params": 10551
+ },
+ "abl_nonwp": {
+  "model": "abl_nonwp",
+  "seed": 0,
+  "train_seconds": 252.09080362319946,
+  "epochs": 14,
+  "params": 155505
+ },
+ "proposed": {
+  "model": "proposed",
+  "seed": 0,
+  "train_seconds": 2535.2698884010315,
+  "epochs": 15,
+  "params": 161466
+ },
+ "transformer": {
+  "model": "transformer",
+  "seed": 0,
+  "train_seconds": 297.45813751220703,
+  "epochs": 14,
+  "params": 75587
+ },
+ "cnnlstm": {
+  "model": "cnnlstm",
+  "seed": 0,
+  "train_seconds": 85.81850934028625,
+  "epochs": 19,
+  "params": 179720
+ },
+ "tide": {
+  "model": "tide",
+  "seed": 0,
+  "train_seconds": 64.5090913772583,
+  "epochs": 40,
+  "params": 1599072
+ },
+ "xgbq_fs": {
+  "model": "xgbq_fs",
+  "seed": 0,
+  "train_seconds": 662.5657916069031,
+  "epochs": null,
+  "params": null
+ },
+ "abl_novsn": {
+  "model": "abl_novsn",
+  "seed": 0,
+  "train_seconds": 295.6818013191223,
+  "epochs": 17,
+  "params": 161466
+ },
+ "patchtst": {
+  "model": "patchtst",
+  "seed": 0,
+  "train_seconds": 274.80387353897095,
+  "epochs": 40,
+  "params": 118911
+ },
+ "ridge": {
+  "model": "ridge",
+  "seed": 0,
+  "train_seconds": 0.22526168823242188,
+  "epochs": null,
+  "params": null
+ },
+ "abl_noattn": {
+  "model": "abl_noattn",
+  "seed": 0,
+  "train_seconds": 253.28898286819458,
+  "epochs": 20,
+  "params": 161466
+ },
+ "abl_raw": {
+  "model": "abl_raw",
+  "seed": 0,
+  "train_seconds": 288.12567472457886,
+  "epochs": 15,
+  "params": 161466
+ },
+ "tft": {
+  "model": "tft",
+  "seed": 0,
+  "train_seconds": 1016.6237487792969,
+  "epochs": 22,
+  "params": 94081
+ },
+ "abl_single": {
+  "model": "abl_single",
+  "seed": 0,
+  "train_seconds": 3232.2794959545135,
+  "epochs": [
+   15,
+   14,
+   13
+  ],
+  "params": 161466
+ },
+ "nhits": {
+  "model": "nhits",
+  "seed": 0,
+  "train_seconds": 9.335487127304077,
+  "epochs": 16,
+  "params": 689652
+ },
+ "xgb": {
+  "model": "xgb",
+  "seed": 0,
+  "train_seconds": 272.79950308799744,
+  "epochs": null,
+  "params": null
+ }
+}
