@@ -5,7 +5,7 @@ authors:
   - family-names: "[Surname]"
     given-names: "[Given name]"
 license: MIT
-repository-code: "https://github.com/[user]/hybrid-microgrid-forecasting"
+repository-code: "https://github.com/Muso98/hybrid-microgrid-forecasting"
 preferred-citation:
   type: article
   title: "From noisy IoT telemetry to calibrated day-ahead dispatch: an end-to-end multi-factor forecasting pipeline for hybrid microgrids, tested on a real-NWP digital twin of three Uzbek sites and on two operating systems"
