@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1471792504.svg)](https://doi.org/10.5281/zenodo.24533101)
+
 # From noisy IoT telemetry to calibrated day-ahead dispatch
 
 Code, inputs and results for the article *"From noisy IoT telemetry to calibrated day-ahead dispatch: an
