@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use this code or data, please cite the article below."
 title: "Hybrid microgrid forecasting pipeline: code and results"
 authors:
-  - family-names: "[Surname]"
-    given-names: "[Given name]"
+  - family-names: "Musaev"
+    given-names: "Musabek"
 license: MIT
 doi: 10.5281/zenodo.24533101
 repository-code: "https://github.com/Muso98/hybrid-microgrid-forecasting"
@@ -11,7 +11,7 @@ preferred-citation:
   type: article
   title: "From noisy IoT telemetry to calibrated day-ahead dispatch: an end-to-end multi-factor forecasting pipeline for hybrid microgrids, tested on a real-NWP digital twin of three Uzbek sites and on two operating systems"
   authors:
-    - family-names: "[Surname]"
-      given-names: "[Given name]"
+    - family-names: "Musaev"
+      given-names: "Musabek"
   journal: "[Journal]"
   year: 2026
